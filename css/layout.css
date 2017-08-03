@@ -330,13 +330,13 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
-.illustrator {
+.php {
   	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: php 2s ease;
+  	-webkit-animation: php 2s ease;
 }
 .wordpress {
-  	width: 50%;
+  	width: 75%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
@@ -360,13 +360,13 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes php {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
 @-moz-keyframes wordpress {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
@@ -385,13 +385,13 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes php {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
 @-webkit-keyframes wordpress {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
