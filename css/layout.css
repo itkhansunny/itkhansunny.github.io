@@ -900,7 +900,7 @@ call-to-action .button {
    top: 17px;
 }
 
-.address{
+.address, .address span{
 	color: #fff;
 }
 
